@@ -1,5 +1,5 @@
-flask
 streamlit
+scikit-learn
+xgboost
 numpy
 pandas
-scikit-learn
